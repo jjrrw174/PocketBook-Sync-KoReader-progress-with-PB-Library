@@ -1,5 +1,5 @@
 # PocketBook-Sync-KoReader-progress-with-PB-Library
-Small .sh script to update PocketBook library with current KoReader book progress
+Small .sh script to update PocketBook library with current KoReader book progress. It's more of an aproximation. I wanted the library to be somewhat up to date with what I'm reading.
 
 ***TESTED ON POCKETBOOK ERA, LATEST FIRMWARE***
 
