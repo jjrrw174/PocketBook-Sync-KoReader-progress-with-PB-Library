@@ -25,3 +25,9 @@ To use:
   2. Go to applications
   3. Scroll to find @currentPageUpdate
   4. Press @currentPageUpdate
+
+To-do:
+Add ability to sync all book progress
+Add ability to detect current page = total pages and mark as complete
+Add this to KoReader as an automated process(On page refresh, every x minutes, on standy, etc.)
+Add ability to sync pages going back. Example: On page 30, go back to 26, 29 is still displayed as last read page.
