@@ -1,6 +1,8 @@
 # PocketBook-Sync-KoReader-progress-with-PB-Library
 Small .sh script to update PocketBook library with current KoReader book progress
 
+***TESTED ON POCKETBOOK ERA, LATEST FIRMWARE***
+
 A shell script that will take your most recently opend KoReader book and insert or update a record to the PocketBook library. SH_IVTOOL is used to print a summary of the Book title, id, current page, and total number of pages and wether a update or insert happened.
 
 How it works:
