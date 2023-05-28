@@ -1,5 +1,5 @@
 #!/bin/sh
-
+cd /mnt/ext1/applications
 echo "Starting page update `date`" > currentPageUpdateLog.txt
 errorMsg=""
 currentPlaceInCode=""
